@@ -1,0 +1,2 @@
+# QrCodeReader
+Django Api Project
